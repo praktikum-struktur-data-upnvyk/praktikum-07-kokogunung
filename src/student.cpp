@@ -397,6 +397,7 @@ int main() {
     clear(satu);
     clear(miring);
     clear(root);
+cout<<"Testing\n";
     return 0;
 }
 #endif
